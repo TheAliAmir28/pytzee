@@ -54,7 +54,7 @@ yahtzee.py   # Main game code
 
 2. **Run the game**
    ```bash
-   python3 cmsc201_proj1_yahtzee.py
+   python3 yahtzee.py
    ```
 
 ---
