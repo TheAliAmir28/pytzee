@@ -40,7 +40,7 @@ The goal is to roll dice and score points across various categories, aiming for 
 
 ## 📂 Project Structure
 ```
-cmsc201_proj1_yahtzee.py   # Main game code
+yahtzee.py   # Main game code
 ```
 
 ---
